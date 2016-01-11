@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<ArrayOfBall xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Ball>
+    <X>-1</X>
+    <Y>226</Y>
+    <DX>-4</DX>
+    <DY>-4</DY>
+    <BallWidth>30</BallWidth>
+    <BallHeight>30</BallHeight>
+  </Ball>
+</ArrayOfBall>
